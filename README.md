@@ -1,1 +1,1 @@
-# in-silico-deliberation
+# Repository for In-Silico-Deliberation Research
